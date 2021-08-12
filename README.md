@@ -1,26 +1,26 @@
 # Goomba Bot
 
-//How to set up for replit 
-//follow these steps to set up the bot with minimal implications
+How to set up for replit 
+follow these steps to set up the bot with minimal implications
 
-//Have your discord bot ready
-//Get your TOKEN ready to copy over
-//A custom prefix of your choice | The prefix can be changed within the config.js
+Have your discord bot ready
+Get your TOKEN ready to copy over
+A custom prefix of your choice | The prefix can be changed within the config.js
 
-//1-Edit these files `config.js, owner.json, config.json and emojis.json`
-//2-Enter the commands category and select secret on the left, Key=TOKEN Value=Your token
-//3-type `npm i` in the terminal and wait for install
-//4-Either press run or type `node index.js` in the terminal
+1-Edit these files `config.js, owner.json, config.json and emojis.json`
+2-Enter the commands category and select secret on the left, Key=TOKEN Value=Your token
+3-type `npm i` in the terminal and wait for install
+4-Either press run or type `node index.js` in the terminal
 
-//How to set up for visual code 
-//follow these steps to set up the bot with minimal implications
+How to set up for visual code 
+follow these steps to set up the bot with minimal implications
 
-//make sure you have Node.js & Discord.js ready
-//A custom prefix of your choice | The prefix can be changed within the config.js | Make sure you have a discord TOKEN
-/Edit the following files `config.js and owner.json`
-//type `npm i` in the terminal and wait for install
-//Either press run or type `node index.js` in the terminal
--
+1-make sure you have Node.js & Discord.js ready
+2-A custom prefix of your choice | The prefix can be changed within the config.js | Make sure you have a discord TOKEN
+3-Edit the following files `config.js and owner.json`
+4-type `npm i` in the terminal and wait for install
+5-Either press run or type `node index.js` in the terminal
+
 
 # TAKE A LOOK AT SOCIAL COMMANDS & OPEN ForYou 
 
