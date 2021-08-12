@@ -12,6 +12,15 @@
 //3-type `npm i` in the terminal and wait for install
 //4-Either press run or type `node index.js` in the terminal
 
+//How to set up for visual code 
+//follow these steps to set up the bot with minimal implications
+
+//make sure you have Node.js & Discord.js ready
+//A custom prefix of your choice | The prefix can be changed within the config.js | Make sure you have a discord TOKEN
+/Edit the following files `config.js and owner.json`
+//type `npm i` in the terminal and wait for install
+//Either press run or type `node index.js` in the terminal
+-
 
 # TAKE A LOOK AT SOCIAL COMMANDS & OPEN ForYou 
 
@@ -34,4 +43,3 @@
 - Warn
 - Whois //shows user information
 - Show Warns 
-
