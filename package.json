@@ -66,6 +66,6 @@
     "start": "node index.js",
     "dev": "nodemon index.js"
   },
-  "author": "Manav Garg",
-  "license": "ISC"
+  "author": "MrVibez",
+  "license": "Vibez"
 }
