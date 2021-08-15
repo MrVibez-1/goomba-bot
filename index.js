@@ -1,5 +1,5 @@
 require("dotenv").config();
-console.log("AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA");
+console.log("Bot Ready");
 //Defining dependencies
 const { Client, Collection } = require('discord.js');
 const { PREFIX } = require('./config.js');
@@ -16,6 +16,7 @@ const format = require(`humanize-duration`);
 const fetch = require("node-fetch");
 const config = require("./config.json");
 const wb = require("quick.db");
+const keepAlive = require('./server');
 const bot = new Client({ disableMentions: 'everyone',
   partials: ["MESSAGE", "CHANNEL", "REACTION"]
 });
@@ -474,5 +475,5 @@ function decodeMs(num) {
 
 
 
-
+keepAlive();
 bot.login(process.env.TOKEN);

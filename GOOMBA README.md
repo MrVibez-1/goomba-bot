@@ -12,16 +12,6 @@ A custom prefix of your choice | The prefix can be changed within the config.js
 3-type `npm i` in the terminal and wait for install
 4-Either press run or type `node index.js` in the terminal
 
-How to set up for visual code 
-follow these steps to set up the bot with minimal implications
-
-1-make sure you have Node.js & Discord.js ready
-2-A custom prefix of your choice | The prefix can be changed within the config.js | Make sure you have a discord TOKEN
-3-Edit the following files `config.js and owner.json`
-4-type `npm i` in the terminal and wait for install
-5-Either press run or type `node index.js` in the terminal
-
-
 # TAKE A LOOK AT SOCIAL COMMANDS & OPEN ForYou 
 
 //This bot has many premium commands such as forceban and more!
