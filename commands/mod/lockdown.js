@@ -3,7 +3,7 @@ const Discord = require('discord.js')
 module.exports = {
     config: {
         name: "lockdown",
-        category: 'admin',
+        category: 'mod',
         description: "lock server",
         aliases: []
     },
